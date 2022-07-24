@@ -5,3 +5,14 @@
 .primary-color {
    color:blue;
 }
+.stop-writting{
+    background-image: url("../img/background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: overlay;
+    height: 100vh;
+}
+.footer-color {
+    background-color: rgb(43, 42, 42);
+}
